@@ -1,0 +1,63 @@
+{
+    "name": "京王2000系",
+
+    "explanation": "あ",
+
+
+    "hasType": true,
+    "hasDestination": true,
+    "hasInformation": true,
+    "hasInformation2": false,
+    "hasLine": false,
+    "hasNext": true,
+    "hasScroll": true,
+    "scrollLabel": "停車駅：北野、終点　京王八王子です。",
+    "hasCarNumber": false,
+    "hasCarNumberFull": false,
+    "hasCarNumberSmall": false,
+    "hasCarNumberNormal": false,
+    "carNumber": null,
+    "informationPosition": "normal",
+    "destinationPosition": "normal",
+    "hasNextFullScreen": true,
+    "hasScrollFullScreen": false,
+    "information_ja_en": false,
+
+    "hasInformationCombined": false,
+
+    "destinationDistinction": false,
+    "nextModeDistinction": false,
+    "typeDistinction": false,
+    "informationDistinction": false,
+    "information2Distinction": false,
+    "carNumberDistinction": false,
+
+    "typeSwitching": false,
+
+    "sceneInterval": 3000,
+    "languageSwitching": false,
+    "carNumberLanguageSwitching": false,
+    "destinationLanguageSwitching": false,
+    "informationLanguageSwitching": false,
+    "ledWidth": 144,
+    "ledHeight": 32,
+    "pixelSize": 8.8,
+    "ledSize": 6.5,
+    "ledGap": 2.3,
+
+    "enAhead": false,
+    "informationAhead": false,
+
+    "setSwitchingTime": false,
+    "jaTime": 3,
+    "enTime": 3,
+    "infoTime": 3,
+    "carNumberTime": 3,
+
+    "next_normal": false,
+    "nextPosition": 16,
+
+    "hasReferenceSite": true,
+
+    "ledShape": "circle"
+}
