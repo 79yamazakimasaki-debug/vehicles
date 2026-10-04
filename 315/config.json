@@ -1,0 +1,59 @@
+{
+    "name": "315系",
+
+    "explanation": "315系は、211系や213系、311系を置き換えるために2021年から営業運転を始めた、JR東海の車両です。中央本線や東海道本線をはじめ、関西本線や武豊線などJR東海の多くの路線で運用されています。315系は176×32ドットのフルカラー行先表示器を搭載しており、号車・種別・行先の表示を基本とし、駅停車中には次駅表示がされます。また、案内表示もあります。表示の順番は行先（日本語）、行先（英語）、行先+次駅（日本語）、行先+次駅（英語）（案内がある場合はこの次に行先+案内（日本語）、行先+案内（英語））となっています。",
+
+    "hasType": true,
+    "hasDestination": true,
+    "hasInformation": true,
+    "hasInformation2": false,
+    "hasLine": false,
+    "hasNext": true,
+    "hasScroll": false,
+    "scrollLabel": null,
+    "hasCarNumber": true,
+    "hasCarNumberFull": false,
+    "hasCarNumberSmall": true,
+    "hasCarNumberNormal": false,
+    "carNumber": "left",
+    "informationPosition": "next",
+    "destinationPosition": "normal",
+    "hasNextFullScreen": false,
+    "hasScrollFullScreen": false,
+    "information_ja_en": false,
+
+    "hasInformationCombined": false,
+
+    "destinationDistinction": true,
+    "nextModeDistinction": true,
+    "typeDistinction": false,
+    "informationDistinction": false,
+    "information2Distinction": false,
+    "lineDistinction": false,
+    "carNumberDistinction": false,
+
+    "typeSwitching": false,
+
+    "sceneInterval": 3000,
+    "languageSwitching": true,
+    "carNumberLanguageSwitching": true,
+    "destinationLanguageSwitching": true,
+    "informationLanguageSwitching": true,
+    "ledWidth": 176,
+    "ledHeight": 32,
+    "pixelSize": 7,
+    "ledSize": 5.5,
+    "ledGap": 1.5,
+
+    "enAhead": false,
+    "informationAhead": false,
+
+    "setSwitchingTime": false,
+
+    "next_normal": true,
+    "nextPosition": 16,
+
+    "hasReferenceSite": false,
+
+    "ledShape": "circle"
+}

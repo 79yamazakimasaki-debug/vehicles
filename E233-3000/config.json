@@ -1,0 +1,59 @@
+{
+    "name": "E233系3000番台",
+
+    "explanation": "E233系3000番台は、東海道本線で運用されていたE217系が横須賀・総武快速線へ戻ることに伴う車両不足を補うために、2008年から東海道本線で営業運転を開始したJR東日本の車両です。その後、東海道本線や宇都宮線、高崎線などで運用されていた211系を置き換えるため増備され、運用範囲を拡大することとなりました。E233系3000番台は128×32ドットのフルカラー行先表示器を搭載しており、種別と行先の表示を基本とし、途中駅では次駅表示、優等列車は始発駅で停車駅スクロールの表示がされます。湘南新宿ライン系統の列車の行先は橙色、宇都宮線系統の列車の行先は緑色、その他の列車の行先は白色となります。また、路線名案内や直通案内もされます。E233系の他の番台とは違い、行先単体表示はできません。なお、再現LEDデータが存在しない場合があるため、その際はLEDが表示されなかったり表示が欠けたりすることがあります。",
+
+    "hasType": true,
+    "hasDestination": true,
+    "hasInformation": true,
+    "hasInformation2": false,
+    "hasLine": false,
+    "hasNext": true,
+    "hasScroll": true,
+    "scrollLabel": "停車駅：国府津、終点　小田原です。",
+    "hasCarNumber": false,
+    "hasCarNumberFull": false,
+    "hasCarNumberSmall": false,
+    "hasCarNumberNormal": false,
+    "carNumber": null,
+    "informationPosition": "normal",
+    "destinationPosition": "normal",
+    "hasNextFullScreen": false,
+    "hasScrollFullScreen": false,
+    "information_ja_en": false,
+
+    "hasInformationCombined": false,
+
+    "destinationDistinction": true,
+    "nextModeDistinction": true,
+    "typeDistinction": false,
+    "informationDistinction": false,
+    "information2Distinction": false,
+    "lineDistinction": false,
+    "carNumberDistinction": false,
+
+    "typeSwitching": false,
+
+    "sceneInterval": 3000,
+    "languageSwitching": false,
+    "carNumberLanguageSwitching": false,
+    "destinationLanguageSwitching": false,
+    "informationLanguageSwitching": false,
+    "ledWidth": 128,
+    "ledHeight": 32,
+    "pixelSize": 8.5,
+    "ledSize": 6.5,
+    "ledGap": 2,
+
+    "enAhead": false,
+    "informationAhead": false,
+
+    "setSwitchingTime": false,
+
+    "next_normal": false,
+    "nextPosition": 16,
+
+    "hasReferenceSite": false,
+
+    "ledShape": "circle"
+}

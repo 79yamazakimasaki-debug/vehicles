@@ -1,0 +1,59 @@
+{
+    "name": "E233系1000番台",
+
+    "explanation": "E233系1000番台は、京浜東北・根岸線で運用されていた209系を置き換えるため、2007年から京浜東北・根岸線で営業運転を開始したJR東日本の車両です。E233系1000番台は128×32ドットのフルカラー行先表示器を搭載しており、種別と行先の表示を基本とし、途中駅では次駅表示、優等列車は始発駅で停車駅スクロールの表示がされます。また、路線名案内もされます。行先単体表示も可能で、路線名と交互表示することもあります（「種別なし」を選択し、行先と案内をそれぞれ選択すれば行先単体表示をLEDに表示できます。）が、E233系0番台などで見られる行先単体次駅表示はできません。なお、再現LEDデータが存在しない場合があるため、その際はLEDが表示されなかったり表示が欠けたりすることがあります。",
+
+    "hasType": true,
+    "hasDestination": true,
+    "hasInformation": true,
+    "hasInformation2": false,
+    "hasLine": false,
+    "hasNext": true,
+    "hasScroll": true,
+    "scrollLabel": "この電車の停車駅は、港南台、本郷台駅に停まります。",
+    "hasCarNumber": false,
+    "hasCarNumberFull": false,
+    "hasCarNumberSmall": false,
+    "hasCarNumberNormal": false,
+    "carNumber": null,
+    "informationPosition": "normal",
+    "destinationPosition": "normal",
+    "hasNextFullScreen": false,
+    "hasScrollFullScreen": false,
+    "information_ja_en": false,
+
+    "hasInformationCombined": false,
+
+    "destinationDistinction": false,
+    "nextModeDistinction": false,
+    "typeDistinction": false,
+    "informationDistinction": false,
+    "information2Distinction": false,
+    "lineDistinction": false,
+    "carNumberDistinction": false,
+
+    "typeSwitching": false,
+
+    "sceneInterval": 3000,
+    "languageSwitching": false,
+    "carNumberLanguageSwitching": false,
+    "destinationLanguageSwitching": false,
+    "informationLanguageSwitching": false,
+    "ledWidth": 128,
+    "ledHeight": 32,
+    "pixelSize": 8.5,
+    "ledSize": 6.5,
+    "ledGap": 2,
+
+    "enAhead": false,
+    "informationAhead": false,
+
+    "setSwitchingTime": false,
+
+    "next_normal": false,
+    "nextPosition": 16,
+
+    "hasReferenceSite": false,
+
+    "ledShape": "circle"
+}
