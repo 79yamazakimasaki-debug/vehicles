@@ -508,6 +508,17 @@
         "site": "vehicles/20400/site.json"
     },
     {
+        "id": "50000",
+        "name": "東武50000型（東上線）",
+        "config": "vehicles/50000/config.json",
+        "led": "vehicles/50000/led.json",
+        "icons": [
+            "vehicles/50000/icons/icon1.png",
+            "vehicles/50000/icons/icon2.png"
+        ],
+        "site": "vehicles/50000/site.json"
+    },
+    {
         "id": "tokyu7000",
         "name": "東急1000系・7000系",
         "config": "vehicles/tokyu7000/config.json",
@@ -610,6 +621,16 @@
             "vehicles/3000/icons/icon3.png"
         ],
         "site": "vehicles/3000/site.json"
+    },
+    {
+        "id": "l00",
+        "name": "西武L00系",
+        "config": "vehicles/l00/config.json",
+        "led": "vehicles/l00/led.json",
+        "icons": [
+            "vehicles/l00/icons/icon1.png"
+        ],
+        "site": "vehicles/l00/site.json"
     },
     {
         "id": "so9000",
