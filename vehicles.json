@@ -429,6 +429,16 @@
         "site": "vehicles/521-100/site.json"
     },
     {
+        "id": "271",
+        "name": "271系",
+        "config": "vehicles/271/config.json",
+        "led": "vehicles/271/led.json",
+        "icons": [
+            "vehicles/271/icons/icon1.png"
+        ],
+        "site": "vehicles/271/site.json"
+    },
+    {
         "id": "225・227",
         "name": "JR西日本一体型フルカラーLED",
         "config": "vehicles/225・227/config.json",
@@ -517,6 +527,17 @@
             "vehicles/50000/icons/icon2.png"
         ],
         "site": "vehicles/50000/site.json"
+    },
+    {
+        "id": "90000",
+        "name": "東武50070型（ゴシック体）・90000型",
+        "config": "vehicles/90000/config.json",
+        "led": "vehicles/90000/led.json",
+        "icons": [
+            "vehicles/90000/icons/icon1.png",
+            "vehicles/90000/icons/icon2.png"
+        ],
+        "site": "vehicles/90000/site.json"
     },
     {
         "id": "tokyu7000",
@@ -644,6 +665,16 @@
             "vehicles/so9000/icons/icon4.png"
         ],
         "site": "vehicles/so9000/site.json"
+    },
+    {
+        "id": "toei10_300_3color",
+        "name": "都営10300形 (3色)",
+        "config": "vehicles/toei10_300_3color/config.json",
+        "led": "vehicles/toei10_300_3color/led.json",
+        "icons": [
+            "vehicles/toei10_300_3color/icons/icon1.png"
+        ],
+        "site": "vehicles/toei10_300_3color/site.json"
     },
     {
         "id": "tx1000・2000",
