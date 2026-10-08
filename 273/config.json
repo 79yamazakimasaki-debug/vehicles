@@ -1,7 +1,7 @@
 {
-    "name": "キハE200系",
+    "name": "273系",
 
-    "explanation": "a",
+    "explanation": "",
 
     "hasType": true,
     "hasDestination": true,
@@ -11,12 +11,13 @@
     "hasNext": false,
     "hasScroll": false,
     "scrollLabel": null,
-    "hasCarNumber": false,
+    "hasCarNumber": true,
     "hasCarNumberFull": false,
-    "hasCarNumberSmall": false,
+    "hasCarNumberSmall": true,
     "hasCarNumberNormal": false,
-    "carNumber": null,
-    "informationPosition": "normal",
+    "carNumber": "right",
+    "informationPosition": "next",
+    "information2Position": "next",
     "destinationPosition": "normal",
     "hasNextFullScreen": false,
     "hasScrollFullScreen": false,
@@ -25,35 +26,36 @@
     "hasInformationCombined": false,
 
     "destinationDistinction": false,
-    "nextModeDistinction": false,
+    "nextModeDistinction": true,
     "typeDistinction": false,
     "informationDistinction": false,
     "information2Distinction": false,
     "lineDistinction": false,
     "carNumberDistinction": false,
 
-    "typeSwitching": false,
+    "typeSwitching": true,
 
     "sceneInterval": 3000,
     "languageSwitching": false,
     "carNumberLanguageSwitching": false,
-    "destinationLanguageSwitching": false,
-    "informationLanguageSwitching": false,
-    "ledWidth": 128,
+    "destinationLanguageSwitching": true,
+    "informationLanguageSwitching": true,
+    "ledWidth": 160,
     "ledHeight": 32,
-    "pixelSize": 8.5,
-    "ledSize": 6.5,
-    "ledGap": 2,
+    "pixelSize": 7,
+    "ledSize": 4.8,
+    "ledGap": 2.2,
 
     "enAhead": false,
     "informationAhead": false,
+    "information2Ahead": false,
 
     "setSwitchingTime": false,
 
     "next_normal": false,
-    "nextPosition": 16,
+    "nextPosition": 18,
 
-    "hasReferenceSite": false,
+    "hasReferenceSite": true,
 
     "ledShape": "circle"
 }

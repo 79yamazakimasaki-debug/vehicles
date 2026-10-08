@@ -1,5 +1,5 @@
 {
-    "name": "キハE200系",
+    "name": "HB-E220系（盛岡車）",
 
     "explanation": "a",
 
@@ -21,6 +21,8 @@
     "hasNextFullScreen": false,
     "hasScrollFullScreen": false,
     "information_ja_en": false,
+
+    "type_destination_changed": true,
 
     "hasInformationCombined": false,
 
@@ -53,7 +55,7 @@
     "next_normal": false,
     "nextPosition": 16,
 
-    "hasReferenceSite": false,
+    "hasReferenceSite": true,
 
     "ledShape": "circle"
 }
